@@ -1,12 +1,12 @@
 {
-  "name": "Botname-MD",
-  "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By YOUR NAME",
+  "name": "DORA-MD",
+  "version": "0.0.1",
+  "description": "A WhatsApp Bot Created By Dora",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Botname-MD",
-    "stop": "pm2 stop Botname-MD",
-    "restart": "pm2 restart Botne-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name DORA-MD",
+    "stop": "pm2 stop DORA-MD",
+    "restart": "pm2 restart DORA-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
