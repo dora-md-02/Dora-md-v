@@ -1,4 +1,3 @@
-
 # DORA-MD
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -6,7 +5,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://files.catbox.moe/bqs70b.jpg"  width="300" height="200">
+<img src = "https://files.catbox.moe/c469iq.jpg"  width="300" height="200">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=DORA-MD+MD+WHATSAPP+BOT+MD" alt="">
@@ -17,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/dora-md-02/Dora-md-v/fork"><img title="DORA-MD" src="https://img.shields.io/badge/FORK-DORA-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/kingmalvn/DORA-MD/fork"><img title="DORA-MD" src="https://img.shields.io/badge/FORK-DORA-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -25,8 +24,8 @@
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="https://dora-session.onrender.com/">
-  
+  <a href="https://dora-session.onrender.com//?">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
@@ -40,7 +39,7 @@
    
   1..DEPLOY ON HEROKU ⤵️
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2dora-md-02%2FDora-md-v) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdora-md-02%2Dora-md-v) 
    
    
   2..DEPLOY ON RENDER ⤵️
@@ -100,11 +99,11 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF DORA-MD 
-- [Lord Dora ](https://github.com/dora-md-02/Dora-md-v)
+- [Lord Dora ](https://github.com/dora-md-v)
 - Creater and Owner Of DORA-MD
 
 > DORA-MD Helper
-- [Dora Md](https://github.com/dora-md-02)
+- [Malvin King](https://github.com/Dora-md-02)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
