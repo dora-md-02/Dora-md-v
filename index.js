@@ -6,9 +6,9 @@
  You may not sell this script.
  It is supplied in the hope that it may be useful.
  * @project_name : Free Bot script
- * @author : Malvin King <https://github.com/kingmalvn>
+ * @author : Dora md <https://github.com/dora-md-v>
  * @description : A Multi-functional whatsapp bot script.
- * @version 3.0.0
+ * @version 1.0.0
  **/
 
 
@@ -171,18 +171,18 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
 //================ownerreact==============
 if(senderNumber.includes("94763007898")){
 if(isReact) return
-m.react("👑")
+m.react("💗")
 }
-if(senderNumber.includes("94763007898")){
+if(senderNumber.includes("9476988456")){
 if(isReact) return
-m.react("👑")
+m.react("🥀")
 }
 if(senderNumber.includes("94743454928")){
 if(isReact) return
 m.react("🦋")
    }
 
-if(senderNumber.includes("94763007898")){
+if(senderNumber.includes("94754401388")){
 if(isReact) return
 m.react("🎀")
    }
