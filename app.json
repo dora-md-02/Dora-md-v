@@ -3,7 +3,7 @@
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴅᴏʀᴀ ᴍᴅ ",
   "logo": "your image url",
   "keywords": ["bot"],
-  "success_url": "/",
+  "success_url": ".",
 
     "stack": "container",
   "env": {
