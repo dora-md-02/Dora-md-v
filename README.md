@@ -103,7 +103,7 @@ jobs:
 - Creater and Owner Of DORA-MD
 
 > DORA-MD Helper
-- [Malvin King](https://github.com/Dora-md-02)
+- [Dora Md](https://github.com/Dora-md-02)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
