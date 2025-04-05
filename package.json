@@ -4,9 +4,9 @@
   "description": "A WhatsApp Bot Created By Dora",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DORA-MD",
-    "stop": "pm2 stop DORA-MD",
-    "restart": "pm2 restart DORA-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Dora-md",
+    "stop": "pm2 stop Dora-md",
+    "restart": "pm2 restart Dora-md"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
