@@ -19,11 +19,11 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "DORA-MD~BlZyWDSI#Piq0aeTUnU-f6GXxyCOme1KmcasSAVku4FDMtg4xQDY",
+SESSION_ID: process.env.SESSION_ID || "DORA-MD~toJlBSya#klyUwrJ6h8xN0Z1Q0Qg2eM8l0bazxqxxBueWEaC2zgQ",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
-AUTO_VOICE: process.env.AUTO_VOICE || "false",
-AUTO_STICKER: process.env.AUTO_STICKER || "false",
+AUTO_VOICE: process.env.AUTO_VOICE || "true",
+AUTO_STICKER: process.env.AUTO_STICKER || "true",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 ALIVE_IMG: process.env.ALIVE_IMG || "your alive image url",
 MENU_IMG: process.env.MENU_IMG || "your menu pic url",
