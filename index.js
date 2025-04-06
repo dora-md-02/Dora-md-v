@@ -6,9 +6,9 @@
  You may not sell this script.
  It is supplied in the hope that it may be useful.
  * @project_name : Free Bot script
- * @author : Dora md <https://github.com/dora-md-v>
+ * @author : Dora Md <https://github.com/Dora-md-v>
  * @description : A Multi-functional whatsapp bot script.
- * @version 1.0.0
+ * @version 3.0.0
  **/
 
 
@@ -62,7 +62,7 @@ const port = process.env.PORT || 9090;
 
 
 async function connectToWA() {
-console.log("CONNECTING DORA-MD 🧬...");
+console.log("CONNECTING LITE-MD 🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/sessions/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -171,18 +171,18 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
 //================ownerreact==============
 if(senderNumber.includes("94763007898")){
 if(isReact) return
-m.react("💗")
+m.react("👑")
 }
-if(senderNumber.includes("9476988456")){
+if(senderNumber.includes("94763007898")){
 if(isReact) return
-m.react("🥀")
+m.react("👑")
 }
 if(senderNumber.includes("94743454928")){
 if(isReact) return
 m.react("🦋")
    }
 
-if(senderNumber.includes("94754401388")){
+if(senderNumber.includes("94743454928")){
 if(isReact) return
 m.react("🎀")
    }
